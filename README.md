@@ -1,5 +1,5 @@
 # Razorpay-Clone
-**Step 1:** [Download](**Step 1:** [Download](https://github.com/morekamlesh/Netflix-Clone/archive/refs/heads/master.zip) this repo as a zip
+**Step 1:** [Download](https://github.com/morekamlesh/Razorpay-Clone/archive/refs/heads/master.zip) this repo as a zip
 
 **Step 2:** To run:
 
